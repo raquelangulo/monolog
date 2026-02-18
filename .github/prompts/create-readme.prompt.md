@@ -43,3 +43,5 @@ Don't include:
 - Detailed contribution guidelines (reference separate CONTRIBUTING.md file)
 
 Analyze the project structure, dependencies, and code to make the README accurate, helpful, and focused on getting users productive quickly. Generate it both in English and Spanish.
+
+Add some jokes in this doc.
